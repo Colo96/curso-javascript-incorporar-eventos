@@ -42,7 +42,6 @@ const obtenerBoton = document.querySelector("form button");
 window.onload = () => {
     imagenFrom.src = "imagenes/white-flag.png";
     imagenTo.src = "imagenes/white-flag.png";
-    obtenerTipoCambio();
 }
 
 
