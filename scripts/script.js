@@ -1,6 +1,6 @@
 debugger;
 
-const codigo_paises = {
+const medidas_conversion = {
     "EU" : "EUR",
     "AR" : "ARS",
     "AU" : "AUD",
@@ -74,4 +74,3 @@ function obtenerTipoCambio() {
         mostrar.innerText = "Algo salio mal";
     });
 }
-
